@@ -1,0 +1,41 @@
+﻿  app.cpp
+  checksum.cpp
+  common.cpp
+  error.cpp
+  file.cpp
+  http.cpp
+  json.cpp
+  path.cpp
+  pool.cpp
+  regexp.cpp
+  string.cpp
+  thread.cpp
+  utf8.cpp
+  data.cpp
+  controlframes.cpp
+  fontsys.cpp
+  frame.cpp
+  framewnd.cpp
+  listctrl.cpp
+  window.cpp
+c:\users\xlime\desktop\codget-1.0\src\frameui\window.cpp(66): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+c:\users\xlime\desktop\codget-1.0\src\frameui\window.cpp(82): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+  Generating Code...
+  Compiling...
+  main.cpp
+  ngdp.cpp
+  build.cpp
+  download.cpp
+  program.cpp
+  tags.cpp
+  wizard.cpp
+  Generating Code...
+zlib32d.lib(adler32.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'zlib32d.lib(adler32.obj)' or at 'C:\Users\xlime\Desktop\codget-1.0\vc13\Debug\vc120.pdb'; linking object as if no debug info
+zlib32d.lib(crc32.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'zlib32d.lib(crc32.obj)' or at 'C:\Users\xlime\Desktop\codget-1.0\vc13\Debug\vc120.pdb'; linking object as if no debug info
+zlib32d.lib(deflate.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'zlib32d.lib(deflate.obj)' or at 'C:\Users\xlime\Desktop\codget-1.0\vc13\Debug\vc120.pdb'; linking object as if no debug info
+zlib32d.lib(inffast.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'zlib32d.lib(inffast.obj)' or at 'C:\Users\xlime\Desktop\codget-1.0\vc13\Debug\vc120.pdb'; linking object as if no debug info
+zlib32d.lib(inflate.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'zlib32d.lib(inflate.obj)' or at 'C:\Users\xlime\Desktop\codget-1.0\vc13\Debug\vc120.pdb'; linking object as if no debug info
+zlib32d.lib(inftrees.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'zlib32d.lib(inftrees.obj)' or at 'C:\Users\xlime\Desktop\codget-1.0\vc13\Debug\vc120.pdb'; linking object as if no debug info
+zlib32d.lib(trees.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'zlib32d.lib(trees.obj)' or at 'C:\Users\xlime\Desktop\codget-1.0\vc13\Debug\vc120.pdb'; linking object as if no debug info
+zlib32d.lib(zutil.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'zlib32d.lib(zutil.obj)' or at 'C:\Users\xlime\Desktop\codget-1.0\vc13\Debug\vc120.pdb'; linking object as if no debug info
+  CodGet.vcxproj -> C:\Users\xlime\Desktop\codget-1.0\vc13\Debug\BradGet.exe
