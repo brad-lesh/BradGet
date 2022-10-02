@@ -14,4 +14,5 @@ Note that the program creates a cache in its local directory, which significantl
 Using this is not recommended for playable versions, as it is probably slower than the battle.net launcher (due to only using one download thread), and might not install everything correctly. It is also incapable of patching (aka upgrading a previous installation). You might be able to use it to pre-download an upcoming game and then use the battle.net launcher to 'fix' it (make sure to rename the Data folder to what is appropriate for the specific game, though.
 
 VS2017 port can be found at https://github.com/FelixBucket/codget
+
 Original code for BlizzGet can be found at https://github.com/d07RiV/blizzget/
