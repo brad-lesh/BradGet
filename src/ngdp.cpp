@@ -12,6 +12,7 @@ namespace NGDP {
     { "zeus", "Black Ops Cold War" },
     { "zeusc", "Black Ops Cold War CDL Player" },
     { "viper", "Black Ops 4" },
+    { "auks", "Modern Warfare 2 Main/CP Access" },
     { "auksb", "Modern Warfare 2 Beta" },
     { "lazr", "MW2 Campaign Remastered" },
     { "odin", "MW2019" },
@@ -21,6 +22,9 @@ namespace NGDP {
     { "geirdrifulfore", "Ricochet (VG)" },
     { "fore", "Vanguard" },
     { "foreb", "Vanguard Beta" },
+    { "pro", "Overwatch" },
+    { "prob", "Overwatch 2 Beta" },
+    { "prot", "Overwatch Public Test Region " },
     { "forec", "Vanguard CDL Player" },
   };
 
